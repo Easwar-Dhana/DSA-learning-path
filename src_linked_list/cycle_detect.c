@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#inlcude <linked_list.h>
+#include <linked_list.h>
 
 
 /**
