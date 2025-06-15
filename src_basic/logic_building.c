@@ -75,8 +75,8 @@ int kth_digit(int a, int b, int k)
 int main()
 {
     int sqrt_n = fsqrt(16);
-    printf("square root of n is %d", sqrt_n);
+    //printf("square root of n is %d", sqrt_n);
     three_divisors(25);
     // int pwr = power(2,5);
-    printf("kth digit in a power b is %d", kth_digit(2, 1, 1));
+    //printf("kth digit in a power b is %d", kth_digit(2, 1, 1));
 }
